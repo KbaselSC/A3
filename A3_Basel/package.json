@@ -1,0 +1,8 @@
+{
+    "name": "A3_Basel",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Haru",
+    "contributors": [],
+    "dependencies": {}
+}
