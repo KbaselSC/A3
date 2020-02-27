@@ -5,6 +5,9 @@ and open the template in the editor.
 */
 /* 
     Created on : Feb. 26, 2020, 3:54:05 p.m.
-    Author     : Haru
+    Author     : Kevin Basel
 */
-
+body{
+    background-image: url("../Images/Abstract-1780314_1920.png");
+    color: white;
+}
