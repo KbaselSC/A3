@@ -10,23 +10,26 @@ and open the template in the editor.
 body{
     background-image: url("../Images/Abstract-1780314_1920.png");
     color: white;
+    cursor:url("../Images/mesobag.png"), auto;
+    height: 1080px;
+    width: 1920px;
 }
 h1{
    text-align: center;
 }
-#MesoBag1{
-    width: 50px;
-    height:50px;
+#Kanna1{
+    width: 80px;
+    height:80px;
 }
-#MesoBag2{
-    width: 50px;
-    height:50px;
+#Kanna2{
+    width: 80px;
+    height:80px;
 }
-#MesoBag3{
-    width: 50px;
-    height:50px;
+#Kanna3{
+    width: 80px;
+    height:80px;
 }
-#Kanna{
-    width: 100px;
-    height: 100px;
+#Meso{
+    width: 50px;
+    height: 50px;
 }
