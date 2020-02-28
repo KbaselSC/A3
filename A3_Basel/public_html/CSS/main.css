@@ -18,15 +18,8 @@ body{
 h1{
    text-align: center;
 }
-#Kanna1{
+#Kanna{
     width: 80px;
     height:80px;
-}
-#Kanna2{
-    width: 80px;
-    height:80px;
-}
-#Kanna3{
-    width: 80px;
-    height:80px;
+    position: absolute;
 }

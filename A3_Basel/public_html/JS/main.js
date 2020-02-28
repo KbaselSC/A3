@@ -4,7 +4,20 @@
  * and open the template in the editor.
  */
 
-//Declaring variables.
-var kanna1 = document.getElementById("Kanna1");
-var kanna2 = document.getElementById("Kanna2");
-var kanna3 = document.getElementById("Kanna3");
+//declaring variables
+var kanna = document.getElementById("Kanna");
+var x = 0;
+var y = 0;
+var timerID;
+
+function updateChase(e){
+      x = y + 2;
+      y = y + 2;
+      kanna.style.left  = x + 'px';
+      kanna.style.top = y + 'px';
+    }
+function startChase(){
+    timerID = setInterval(updateChase, 16);
+}
+
+document.body.onload = startChase;
