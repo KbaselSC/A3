@@ -1,11 +1,12 @@
 /*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
+    Main CSS for the webpage, just changes the cursor, and image as well as
+    aligning the header text.
 */
 /* 
-    Created on : Feb. 26, 2020, 3:54:05 p.m.
-    Author     : Kevin Basel
+    Author: Kevin Basel
+    Assignment A3
+    Web Programming
+    Winter 2020
 */
 body{
     background-image: url("../Images/Abstract-1780314_1920.png");

@@ -1,7 +1,12 @@
 /* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Author: Kevin Basel
+ * Assignment A3
+ * Web Programming
+ * Winter 2020
+ * 
+ * the javascript file is one that grabs the image from the html and the cursors
+ * coordiants and chases the cursor and updates where it should be going based on
+ * the cursors position.
  */
 
 //declaring global variables
